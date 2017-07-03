@@ -50,6 +50,8 @@ something like this together with a reasonable yield. A run of around
 a dozen units is probably cost-effective. The BOM includes (possibly-
 outdated) component pricing, and everything is available from Digikey
 and the usual distributors.
+这些地方大部分可以用合理的价格购买到.其他的一些附加设备都是附加的.物料清单(BOM)
+也许是过时的,包括一些定价,所有的东西都是可以从Digikey和其他的经销商处购买的.
 
 If you've never assembled a modern circuit board by hand, then this is
 not a good place to start. Some of the components (e.g. the crystals)
@@ -78,6 +80,6 @@ Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 
 
 Jonathan Westhues
-user jwesthues, at host cq.cx
+在cq.cx网站的账号jwesthues
 
-2007年5月，剑桥大学。
+2007年5月，剑桥大学 文科硕士
